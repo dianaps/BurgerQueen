@@ -21,7 +21,8 @@ img {
   max-width: 100%;
 }
 
-a {
+a,
+.btn-link {
   text-decoration: none;
   &:hover {
     text-decoration: none;

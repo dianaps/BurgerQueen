@@ -12497,10 +12497,12 @@ img {
   max-width: 100%;
 }
 
-a {
+a,
+btn-link {
   text-decoration: none;
 }
-a:hover {
+a:hover,
+btn-link:hover {
   text-decoration: none;
 }
 
